@@ -6,8 +6,8 @@
 
 <h3>Find me 📍</h3>
 📸<a href="https://www.instagram.com/_bruno.andrade/">Intagram</a><br>
-💼:<a href="https://www.linkedin.com/in/brunoandrade-/">LinkedIn</a><br>
-🎨:<a href="https://www.behance.net/andradebruno">Behance</a>
+💼<a href="https://www.linkedin.com/in/brunoandrade-/">LinkedIn</a><br>
+🎨<a href="https://www.behance.net/andradebruno">Behance</a>
 
 <!---
 bruno-andrade/bruno-andrade is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
