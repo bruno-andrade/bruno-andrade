@@ -1,6 +1,6 @@
 <h3> Hey! I’m @bruno-andrade 👋</h3>
 
-🌱 I am currently improving my PHP and Web Design skills and looking to learn react, node, typescript and more...<br>
+🌱 I am currently improving my PHP and WordPress skills and looking to learn reactJS, vueJS, laravel and more...<br>
 🇧🇷  Born and living in Maceió, Alagoas, Brazil<br>
 📫 You can reach me via my email <strong>brunoandrade1209@outlook.com</strong><br>
 
