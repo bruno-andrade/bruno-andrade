@@ -4,9 +4,9 @@
 🇧🇷  Born and living in Maceió, Alagoas, Brazil<br>
 📫 You can reach me via my email <strong>brunoandrade1209@outlook.com</strong><br>
 
-What is my current focus?
-Improve as a frontend developer in React/Next.js/Styled Components
-Learn a new framework, Laravel in php
+What is my current focus?<br>
+Improve as a frontend developer in React/Next.js/Styled Components<br>
+Learn a new framework, Laravel in php<br>
 
 <h3>Find me 📍</h3>
 💼<a href="https://www.linkedin.com/in/brunoandrade-/">LinkedIn</a><br>
